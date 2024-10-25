@@ -1,6 +1,4 @@
-## FreeEpoc
-
-👩‍💻 This organization was created to fork the Symbian project. The starting point is the original EPLv1.0 licensed Symbian as of 07/12/2010. All code is licensed under the EPLv1.0 unless an exception is required for some reason.
+👩‍💻 The FreeEpoc organization was created to fork the Symbian project. The starting point is the original EPLv1.0 licensed Symbian as of 07/12/2010. All code is licensed under the EPLv1.0 unless an exception is required for some reason.
 
 🙋‍♀️ We intend to use artificial intelligence for documentation and all kinds of things that need to be clarified and developed.
 
